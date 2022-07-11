@@ -2,7 +2,7 @@
 layout: post
 title:  "hello, world"
 date:   2022-07-11 16:00:19 +0800
-categories: hello me
+categories: blog me
 ---
 欢迎！
 

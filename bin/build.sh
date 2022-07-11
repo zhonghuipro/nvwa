@@ -1,0 +1,2 @@
+cd ..
+jekyll serve --drafts
