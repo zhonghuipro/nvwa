@@ -2,3 +2,4 @@
 .jekyll-cache
 Gemfile*
 _site
+.sass-cache

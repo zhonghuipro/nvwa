@@ -18,15 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 编程日记 # 标题，刚在头部展示
+title: "编程日记"
+
+# 标题，刚在头部展示
+
 #email: your-email@example.com
+
 description: >- # this means to ignore newlines until "baseurl:"   （个人介绍，将在底部展示）
   这是我的个人技术博客，
   欢迎围观。
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  zhonghuipro # github账号，将在底部增加链接
+github_username: zhonghuipro # github账号，将在底部增加链接
 author: 钟辉 # 作者，将在页面底部展示
 
 # Build settings
@@ -36,19 +40,21 @@ plugins:
   - jekyll-feed
 minima:
   date_format: "%Y年%-m月%-d日"
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
+  # Exclude from processing.
+  # The following items will not be processed, by default.
+  # Any item listed under the `exclude:` key here will be automatically added to
+  # the internal "default list".
+  #
+  # Excluded items can be processed by explicitly listing the directories or
+  # their entries' file path in the `include:` list.
+  #
+  exclude:
+    - .sass-cache/
+    - .jekyll-cache/
+    - .idea/
+    - bin/
+    - gemfiles/
+    - Gemfile
 #   - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
