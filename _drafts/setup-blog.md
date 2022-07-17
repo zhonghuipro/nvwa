@@ -37,3 +37,24 @@ categories: blog me
 3. 配置github pages
 
 
+
+markdown 语言
+
+
+# 一级
+fasfsd
+
+## 二级
+fasfdl
+
+```java
+
+int a;
+
+```
+
+```python
+
+print("hello")
+
+```
