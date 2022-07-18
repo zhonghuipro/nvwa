@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "如何自建一个属于自己的博客网站"
+title:  "【草稿】如何自建一个属于自己的博客网站"
 date:   2022-07-11 20:00:19 +0800
 categories: blog me
 ---

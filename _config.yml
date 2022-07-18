@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "编程日记"
+title: "【网站标题】"
 
 # 标题，刚在头部展示
 
 #email: your-email@example.com
 
 description: >- # this means to ignore newlines until "baseurl:"   （个人介绍，将在底部展示）
-  这是我的个人技术博客，
+  这是我的个人博客，
   欢迎围观。
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: zhonghuipro # github账号，将在底部增加链接
-author: 钟辉 # 作者，将在页面底部展示
+github_username: "zhonghuipro" # github账号，将在底部增加链接
+author: "【作者】" # 作者，将在页面底部展示
 
 # Build settings
 lang: utf-8
@@ -55,7 +55,7 @@ minima:
     - bin/
     - gemfiles/
     - Gemfile
-#   - Gemfile.lock
+    - Gemfile.lock
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
