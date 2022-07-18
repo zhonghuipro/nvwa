@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "【网站标题】"
+title: "钟辉的博客"
 
 # 标题，刚在头部展示
 
@@ -31,7 +31,7 @@ description: >- # this means to ignore newlines until "baseurl:"   （个人介�
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: "zhonghuipro" # github账号，将在底部增加链接
-author: "【作者】" # 作者，将在页面底部展示
+author: "钟辉" # 作者，将在页面底部展示
 
 # Build settings
 lang: utf-8
