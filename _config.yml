@@ -40,6 +40,9 @@ plugins:
   - jekyll-feed
 minima:
   date_format: "%Y年%-m月%-d日"
+
+permalink: /:year-:month-:day/:title:output_ext # 二级目录，方便修正图片目录问题
+
   # Exclude from processing.
   # The following items will not be processed, by default.
   # Any item listed under the `exclude:` key here will be automatically added to
