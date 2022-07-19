@@ -1,14 +1,3 @@
----
-
-layout: post
-
-title:  "如何用IDEA操作github仓库"
-
-date:   2022-07-11 16:00:19 +0800
-
-categories: blog me
-
----
 
 ### 先找到仓库地址（ssh）
 
