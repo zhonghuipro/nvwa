@@ -32,4 +32,5 @@ categories: blog me
 
 
 #### 2.1 clone项目
-![](../assets/images/v20220719-git-clone-project.png)
+![克隆仓库](../assets/images/v20220719-git-clone-project.png)
+
