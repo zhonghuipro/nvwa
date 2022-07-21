@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "钟辉的博客"
+title: "钟辉教编程"
 
 # 标题，刚在头部展示
 
 #email: your-email@example.com
 
 description: >- # this means to ignore newlines until "baseurl:"   （个人介绍，将在底部展示）
-  这是我的个人博客，
-  欢迎围观。
+  编程知识/工作方法/人生感悟/读书笔记
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
